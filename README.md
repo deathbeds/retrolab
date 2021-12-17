@@ -120,7 +120,7 @@ jupyter retro --retro-logo
 
 Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/jupyterlab_miami_nights) installed as a prebuilt extension:
 
-![image The Jupyter interface using the Miami Nights theme](https://user-images.githubusercontent.com/591645/119634905-77e3b580-be13-11eb-9c4c-d187ebea9df8.png)
+![The Jupyter interface using the Miami Nights theme](https://user-images.githubusercontent.com/591645/119634905-77e3b580-be13-11eb-9c4c-d187ebea9df8.png)
 
 ### Zen Mode 😌
 
