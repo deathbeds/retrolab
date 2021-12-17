@@ -128,7 +128,7 @@ Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/ju
 
 ### Terminals 🖥️
 
-![terminals An animation of a user launching a terminal in a new browser tab and executing a command in it](https://user-images.githubusercontent.com/591645/118793525-fc28bc80-b898-11eb-9e02-d5a80ad8ddb8.gif)
+![An animation of a user launching a terminal in a new browser tab and executing a command in it](https://user-images.githubusercontent.com/591645/118793525-fc28bc80-b898-11eb-9e02-d5a80ad8ddb8.gif)
 
 ### File Editor 🖊️
 
