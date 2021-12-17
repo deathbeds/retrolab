@@ -25,7 +25,7 @@ Classic_) is a [JupyterLab](https://github.com/jupyterlab/jupyterlab)
 distribution with a retro look and feel, more similar to the classic
 [Jupyter notebook](https://github.com/jupyter/notebook).
 
-![retrolab](https://user-images.githubusercontent.com/591645/138552467-ed2d96ff-1ea3-496c-bc7b-660d009c1459.png)
+![A notebook in RetroLab.](https://user-images.githubusercontent.com/591645/138552467-ed2d96ff-1ea3-496c-bc7b-660d009c1459.png)
 
 ## Try it online in your browser
 
@@ -89,25 +89,25 @@ To access the main RetroLab tree (file browser):
 
 ### Files 📂 and Running Sessions 🏃‍♀️
 
-![An animation showing the abilities of RetroLab. It shows the ability to make folders, move files, and create new ones.](https://user-images.githubusercontent.com/591645/101952684-54c4a100-3bf9-11eb-8031-6900f6d3a445.gif)
+![An animation of how to make folders, move files, create files, and display running notebooks and terminals in RetroLab's filebrowser.](https://user-images.githubusercontent.com/591645/101952684-54c4a100-3bf9-11eb-8031-6900f6d3a445.gif)
 
 ### Notebook 📒
 
-![notebook An animation showing a user viewing a notebook, renaming a file, running cells, interacting with cell output, and modifying the Jupyter interface using the menu](https://user-images.githubusercontent.com/591645/101953039-efbd7b00-3bf9-11eb-9d34-3cb663a5ac43.gif)
+![An animation of viewing a notebook, renaming a file, running cells, interacting with cell output, and modifying the Jupyter interface using the menu.](https://user-images.githubusercontent.com/591645/101953039-efbd7b00-3bf9-11eb-9d34-3cb663a5ac43.gif)
 
 ### Open in a new Browser Tab by default
 
-![An example of creating a new notebook that opens a new tab and prompts to select a kernel. It shows executing a cell that shows and output then saves the result. It returns back to the file browser to show the notebooking in the running panel.](https://user-images.githubusercontent.com/591645/118811914-d9ed6980-b8ad-11eb-8362-f38627199f71.gif)
+![An example of creating a notebook as a new browser tab and running a cell in it.It returns back to the file browser to show the notebooking in the running panel.](https://user-images.githubusercontent.com/591645/118811914-d9ed6980-b8ad-11eb-8362-f38627199f71.gif)
 
 ### Command Palette 🎨
 
-![command-palette An animation of a user opening the command palette and selecting the "Restart Kernel and Clear All Outputs …" option](https://user-images.githubusercontent.com/591645/101953322-72ded100-3bfa-11eb-9b13-3a912e4f6844.gif)
+![An animation of opening the command palette and selecting the "Restart Kernel and Clear All Outputs" option.](https://user-images.githubusercontent.com/591645/101953322-72ded100-3bfa-11eb-9b13-3a912e4f6844.gif)
 
 ### Themes 🌈
 
 Support for existing JupyterLab themes!
 
-![themes An animation of a user changing the Jupyter interface to use the dark theme.](https://user-images.githubusercontent.com/591645/101953333-75d9c180-3bfa-11eb-868f-af54d1ea7091.gif)
+![An animation of a changing the RetroLab interface to dark theme from the Settingsm menu.](https://user-images.githubusercontent.com/591645/101953333-75d9c180-3bfa-11eb-868f-af54d1ea7091.gif)
 
 For an even more retro look, you might want to start `retrolab` with the `--retro-logo` CLI flag:
 
@@ -120,29 +120,29 @@ jupyter retro --retro-logo
 
 Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/jupyterlab_miami_nights) installed as a prebuilt extension:
 
-![image The Jupyter interface using the Miami Nights theme](https://user-images.githubusercontent.com/591645/119634905-77e3b580-be13-11eb-9c4c-d187ebea9df8.png)
+![RetroLab using the Miami Nights theme.](https://user-images.githubusercontent.com/591645/119634905-77e3b580-be13-11eb-9c4c-d187ebea9df8.png)
 
 ### Zen Mode 😌
 
-![compact-zen-mode An animation of a user using the command palette to enable Zen Mode in JupyterLab](https://user-images.githubusercontent.com/591645/101923740-149cf880-3bd0-11eb-9617-e3349a76d034.gif)
+![An animation of using the command palette to enable Zen Mode, showing only notebook controls, in RetroLab.](https://user-images.githubusercontent.com/591645/101923740-149cf880-3bd0-11eb-9617-e3349a76d034.gif)
 
 ### Terminals 🖥️
 
-![terminals An animation of a user launching a terminal in a new browser tab and executing a command in it](https://user-images.githubusercontent.com/591645/118793525-fc28bc80-b898-11eb-9e02-d5a80ad8ddb8.gif)
+![An animation of launching a terminal in a new browser tab and executing a command in it.](https://user-images.githubusercontent.com/591645/118793525-fc28bc80-b898-11eb-9e02-d5a80ad8ddb8.gif)
 
 ### File Editor 🖊️
 
-![image A RetroLab editor of a Python file with a function and a statement in it](https://user-images.githubusercontent.com/591645/101953590-e2ed5700-3bfa-11eb-9fee-0b6d964f0949.png)
+![A RetroLab editor of a Python file with a function and a statement in it.](https://user-images.githubusercontent.com/591645/101953590-e2ed5700-3bfa-11eb-9fee-0b6d964f0949.png)
 
 ### Compact View on Mobile Devices 📱
 
-![mobile Animation of a user on a mobile phone-sized screen using a compact touch interface in JupyterLab](https://user-images.githubusercontent.com/591645/101995448-2793f380-3cca-11eb-8971-067dd068ccbe.gif)
+![Animation of RetroLab on a mobile device using a compact touch interface.](https://user-images.githubusercontent.com/591645/101995448-2793f380-3cca-11eb-8971-067dd068ccbe.gif)
 
 ### Support for prebuilt extensions 🧩
 
 Install new extensions easily!
 
-![An animation of installing an extension directly in a RetroLab by running commands in a notebook cell.](https://user-images.githubusercontent.com/591645/118813222-38671780-b8af-11eb-835b-f2865bab5c62.gif)
+![An animation of installing an extension directly in a RetroLab by running `pip install` in a notebook cell.](https://user-images.githubusercontent.com/591645/118813222-38671780-b8af-11eb-835b-f2865bab5c62.gif)
 
 ### Switch between JupyterLab and RetroLab easily ↔️
 
