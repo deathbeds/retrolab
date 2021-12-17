@@ -136,7 +136,7 @@ Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/ju
 
 ### Compact View on Mobile Devices 📱
 
-![mobile Animation of a user on a mobile phone-sized screen using a compact touch interface in JupyterLab](https://user-images.githubusercontent.com/591645/101995448-2793f380-3cca-11eb-8971-067dd068ccbe.gif)
+![Animation of a user on a mobile phone-sized screen using a compact touch interface in JupyterLab](https://user-images.githubusercontent.com/591645/101995448-2793f380-3cca-11eb-8971-067dd068ccbe.gif)
 
 ### Support for prebuilt extensions 🧩
 
