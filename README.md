@@ -101,7 +101,7 @@ To access the main RetroLab tree (file browser):
 
 ### Command Palette 🎨
 
-![command-palette An animation of a user opening the command palette and selecting the "Restart Kernel and Clear All Outputs …" option](https://user-images.githubusercontent.com/591645/101953322-72ded100-3bfa-11eb-9b13-3a912e4f6844.gif)
+![An animation of a user opening the command palette and selecting the "Restart Kernel and Clear All Outputs …" option](https://user-images.githubusercontent.com/591645/101953322-72ded100-3bfa-11eb-9b13-3a912e4f6844.gif)
 
 ### Themes 🌈
 
