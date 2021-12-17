@@ -124,7 +124,7 @@ Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/ju
 
 ### Zen Mode 😌
 
-![compact-zen-mode An animation of a user using the command palette to enable Zen Mode in JupyterLab](https://user-images.githubusercontent.com/591645/101923740-149cf880-3bd0-11eb-9617-e3349a76d034.gif)
+![An animation of a user using the command palette to enable Zen Mode in JupyterLab](https://user-images.githubusercontent.com/591645/101923740-149cf880-3bd0-11eb-9617-e3349a76d034.gif)
 
 ### Terminals 🖥️
 
