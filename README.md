@@ -107,7 +107,7 @@ To access the main RetroLab tree (file browser):
 
 Support for existing JupyterLab themes!
 
-![themes An animation of a user changing the Jupyter interface to use the dark theme.](https://user-images.githubusercontent.com/591645/101953333-75d9c180-3bfa-11eb-868f-af54d1ea7091.gif)
+![An animation of a user changing the Jupyter interface to use the dark theme.](https://user-images.githubusercontent.com/591645/101953333-75d9c180-3bfa-11eb-868f-af54d1ea7091.gif)
 
 For an even more retro look, you might want to start `retrolab` with the `--retro-logo` CLI flag:
 
