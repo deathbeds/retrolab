@@ -93,7 +93,7 @@ To access the main RetroLab tree (file browser):
 
 ### Notebook 📒
 
-![notebook An animation showing a user viewing a notebook, renaming a file, running cells, interacting with cell output, and modifying the Jupyter interface using the menu](https://user-images.githubusercontent.com/591645/101953039-efbd7b00-3bf9-11eb-9d34-3cb663a5ac43.gif)
+![An animation showing a user viewing a notebook, renaming a file, running cells, interacting with cell output, and modifying the Jupyter interface using the menu](https://user-images.githubusercontent.com/591645/101953039-efbd7b00-3bf9-11eb-9d34-3cb663a5ac43.gif)
 
 ### Open in a new Browser Tab by default
 
