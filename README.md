@@ -132,7 +132,7 @@ Example with the [JupyterLab Miami Nights Theme](https://github.com/timkpaine/ju
 
 ### File Editor 🖊️
 
-![image A RetroLab editor of a Python file with a function and a statement in it](https://user-images.githubusercontent.com/591645/101953590-e2ed5700-3bfa-11eb-9fee-0b6d964f0949.png)
+![A RetroLab editor of a Python file with a function and a statement in it](https://user-images.githubusercontent.com/591645/101953590-e2ed5700-3bfa-11eb-9fee-0b6d964f0949.png)
 
 ### Compact View on Mobile Devices 📱
 
